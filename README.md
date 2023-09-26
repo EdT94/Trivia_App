@@ -1,16 +1,10 @@
-# adv_basics
+# Trivia_App
 
-A new Flutter project.
+A simple trivia questionnaire that I developed in Flutter while self-learning through a course at Udemy.
+-----------------------------------------------
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-09-26 at 13 19 52 (2)](https://github.com/EdT94/Trivia_App/assets/81565589/938ffec9-76b9-4198-b06f-db68acc607b0)
+-----------------------------------------------
+![WhatsApp Image 2023-09-26 at 13 19 52](https://github.com/EdT94/Trivia_App/assets/81565589/2dc87688-e04e-4548-88f7-6581a159de34)
+-----------------------------------------------
+![WhatsApp Image 2023-09-26 at 13 19 52 (1)](https://github.com/EdT94/Trivia_App/assets/81565589/17f10026-7f46-4d3a-b6a6-4b4320b89853)
